@@ -18,7 +18,7 @@
 ### 🛠️ Teknologi & Peralatan
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,,tailwind,mysql,git,github,vscode,figma" />
   </a>
 </p>
 
