@@ -1,5 +1,5 @@
 # 👋 Halo, Saya Ifan Adi Kusuma!
-### 🚀 Fullstack Developer | Tech Enthusiast | Open Source Contributor | Editor | Grafish design | Beginner Programming
+### 🚀 Tech Enthusiast | Open Source Contributor | Editor | Grafish design | Beginner Programming
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=50" width="100%" />
